@@ -1,10 +1,10 @@
-# Web-page-to-control-robot-arm
+**# Web-page-to-control-robot-arm**
 
 This repository display a web page for controlling the movment of the robot arm.
 
-# Description
+**# Description**
 
-Direction Control
+**Direction Control**
 index.php.
 style.html.
 script.js
@@ -35,3 +35,4 @@ THIS WORK WAS BASED ON THE TRAINING IN SMART METHODS SAUDI COMPANY.
 
 Smart Methods Page
 youtube of smart methods
+
