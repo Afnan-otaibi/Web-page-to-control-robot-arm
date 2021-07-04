@@ -1,38 +1,22 @@
 # ** Web-page-to-control-robot-arm**
 
-This repository display a web page for controlling the movment of the robot arm.
+This repository displays a web page for controlling the movement of the robot arm.
 
 # ** Description**
+I developed a website, this website is to help to control the robot arm. First, In the index.php file, I wrote codes for sliders and makes their degrees between 1-180 so the motors move based on the sliders. In the conn.php file, I succeeded in making the connection between the website and the database.
+In the sl.js file, I wrote javascript codes to assign the sliders to their values. In the style.css file, there are to make the website appearance more acceptable. I made two buttons one for turn on/off the robot arm and another to save/update the data in database by getting them from sliders data. I used XAMPP as servere. Finally, in robot-arm.sql are codes of the database, there is a table with 4 columns contain id,motor_name , degree of the slider, and the state :ON/Off.
+## **Files**
+* README.md
+* background.jpg
+* conn.php.
+* index.php.
+* sl.js
+* style.css.
 
-**Direction Control**
-index.php.
-style.html.
-script.js
-index.php
-request.php
-pic.jpg
-Full Controlling
-combine.html
-combine.css
-combine.js
-combine.php
-pic2.jpg
-Pictures
+## **Pictures**
+![](https://cutewallpaper.org/21/robot-hd-wallpaper/HD-Robot-Backgrounds-wallpaper.wiki-Cute-Robot-Background-.jpg)
 
-# **NOTE**
-you need to use server such as xampp or mamp.I faced a problem many times and it was - Error Code: 1364. Field ’emp_id’ doesn’t have a default value. To solve the problem just create a default value for your column data.
-Any Question
-Please if you have any question just contact me
 
-# **Author**
-I'm an Electrical and Computer Engineer student at KAU in KSA I'm a self learning person. I love programming and electronics.
-[email:asma-sarouji@hotmail.com]
-My LinkedIn Account
-My Instagram Account
-
-# **Acknowledgments**
-THIS WORK WAS BASED ON THE TRAINING IN SMART METHODS SAUDI COMPANY.
-
-Smart Methods Page
-youtube of smart methods
-
+# **Developer**
+I'm a Computer Science student at PSAU in KSA.
+[email: afnan.sa.ot@gmail.com]
