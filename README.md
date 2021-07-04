@@ -12,6 +12,7 @@ In the sl.js file, I wrote javascript codes to assign the sliders to their value
 * index.php.
 * sl.js
 * style.css.
+*robot-arm.sql
 
 ## **Pictures**
 ![](https://cutewallpaper.org/21/robot-hd-wallpaper/HD-Robot-Backgrounds-wallpaper.wiki-Cute-Robot-Background-.jpg)
