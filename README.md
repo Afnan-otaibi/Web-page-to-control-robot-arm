@@ -1,8 +1,8 @@
-**# Web-page-to-control-robot-arm**
+#** Web-page-to-control-robot-arm**
 
 This repository display a web page for controlling the movment of the robot arm.
 
-**# Description**
+#** Description**
 
 **Direction Control**
 index.php.
